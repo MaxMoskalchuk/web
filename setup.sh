@@ -6,5 +6,4 @@ mkdir css
 mkdir js
 cd ..
 mkdir uploads
-mkdir etc
 
